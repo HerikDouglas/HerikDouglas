@@ -61,7 +61,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <div>
 
 <a href="https://instagram.com/herikdouglas.20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.gmail.com/cdcdouglas428@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/herik-douglas-oliveira-reinaldo-615881269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
