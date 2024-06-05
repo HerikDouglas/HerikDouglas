@@ -54,7 +54,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <div>
 <a href="https://github.com/HerikDouglas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikDouglas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerikDouglas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerikDouglas&show_icons=true&theme=dracula&include_all_commits=True&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
@@ -62,6 +62,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 <a href="https://instagram.com/herikdouglas.20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/herik-douglas-oliveira-reinaldo-615881269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Email](https://img.shields.io/badge/Email-cdcdouglas428@gmail.com-blue)](mailto:cdcdouglas428@gmail.com)
 </div>
 
 <!--
