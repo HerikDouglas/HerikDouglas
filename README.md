@@ -7,13 +7,14 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Ciências da Computação | Data Analytics/Data Science @ [ [Universidade Estadual Vale do Acaraú](https://www.uva.ce.gov.br/) | [Profissão do Século](https://jpmoreira.com/profissao-do-seculo/?src=search-ads&utm_source=search-ads&utm_medium=cpc&utm_campaign=20149878913&utm_content=658752911473&utm_term=150270642458&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uDArF-F1otqHhKvAjTI6rH74OF92_J6dYbqvwR3cCN7AcW0tmW8NQaAufJEALw_wcB)]
+🎓 Eu estudo Ciências da Computação | Data Analytics/Data Science @ [ [Universidade Estadual Vale do Acaraú](https://www.uva.ce.gov.br/) | [Universidade Estadual do Ceará](https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem/)]
+
 
 🔎 Também sou curioso sobre Física, Matemática, filosofia, Saúde...
 
 ✒️ Eu gosto de no meu tempo livre ler, ouvir músicas, conversar com amigos, ver filmes ou séries;
 
-📚 Lendo: O GUARANI
+📚 Lendo: O PEQUENO PRÍNCIPE
 
 ### Eu já trabalhei com... 🔧
 
