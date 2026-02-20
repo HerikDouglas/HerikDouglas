@@ -7,14 +7,14 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Ciências da Computação | Data Analytics/Data Science @ [ [Universidade Estadual Vale do Acaraú](https://www.uva.ce.gov.br/) | [Universidade Estadual do Ceará](https://www.uece.br/agin/projetos/residencia-em-tic-20-capacita-brasil-c-jovem/)]
+🎓 Eu estudo Ciências da Computação | Data Analytics/Data Science @ [ [Universidade Estadual Vale do Acaraú](https://www.uva.ce.gov.br/)]
 
 
 🔎 Também sou curioso sobre Física, Matemática, filosofia, Saúde...
 
 ✒️ Eu gosto de no meu tempo livre ler, ouvir músicas, conversar com amigos, ver filmes ou séries;
 
-📚 Lendo: O PEQUENO PRÍNCIPE
+📚 Lendo: QUINCAS BORBA
 
 ### Eu já trabalhei com... 🔧
 
@@ -31,13 +31,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
 ### Eu estou estudando... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+ - CNN (Convolutional Neural Networks)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
